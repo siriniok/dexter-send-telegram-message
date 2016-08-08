@@ -1,12 +1,11 @@
 {
-    "name": "siriniok-send-tg-msg",
-    "version": "0.0.1",
-    "description": "",
-    "main": "index.js",
-    "author": "Vlad",
-    "license": "MIT",
-    "private": true,
-    "dependencies": {
-        "lodash": "^3.9.3"
-    }
+  "name": "siriniok-send-tg-msg",
+  "version": "0.0.1",
+  "description": "Dexter module for sending messages via Telegram Bot API",
+  "main": "index.js",
+  "author": "Vladyslav Siriniok",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+  }
 }
