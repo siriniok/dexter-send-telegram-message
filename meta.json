@@ -1,11 +1,38 @@
 {
-  "inputs": [
-    {
-    }
-  ],
-  "outputs": [
-    {
-    }
-  ],
+  "inputs": [{
+    "id": "chat_id",
+    "title":"Chat ID",
+    "description": "Unique identifier for the target chat"
+  }, {
+    "id": "text",
+    "title":"Text",
+    "description": "Text of the message to be sent"
+  },  {
+    "id": "parse_mode",
+    "title":"Parse Mode",
+    "description": "Send Markdown or HTML"
+  }, {
+    "id": "disable_web_page_preview",
+    "title": "Disable Web Page Preview",
+    "description" : "Disables link previews for links in this message"
+  }, {
+    "id": "disable_notification",
+    "title" : "Disable Notification",
+    "description" : "Sends the message silently"
+  }, {
+    "id": "reply_to_message_id",
+    "title": "Reply to Message ID",
+    "description": "If the message is a reply, ID of the original message"
+  }, {
+    "id": "reply_markup",
+    "title": "As User",
+    "description": "Additional interface options"
+  }, {
+    "id": "access_token",
+    "title": "Access Token",
+    "description": "Telegram bot access token"
+  }],
+  "outputs": [],
+  "icon" : " fa-send-o",
   "title": "siriniok: Send Telegram Message"
 }
