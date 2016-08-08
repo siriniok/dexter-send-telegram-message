@@ -1,5 +1,4 @@
-# Dexter Module
-> This folder contains the scaffolding for implementing a Dexter module. 
+# Send Telegram Message Dexter Module
 
 ## File Details
 ### index.js
