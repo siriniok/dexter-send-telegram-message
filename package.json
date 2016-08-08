@@ -1,0 +1,12 @@
+{
+    "name": "siriniok-send-tg-msg",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "author": "Vlad",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "lodash": "^3.9.3"
+    }
+}
